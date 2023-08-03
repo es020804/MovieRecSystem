@@ -1,0 +1,45 @@
+Name,Year of Release,Star Rating,Genres
+Inception,2010,4.5,Sci-Fi,Action
+The Shawshank Redemption,1994,4.8,Drama,Crime
+Pulp Fiction,1994,4.7,Crime,Drama
+The Dark Knight,2008,4.6,Action,Thriller
+Forrest Gump,1994,4.4,Drama,Romance
+Fight Club,1999,4.6,Drama,Thriller
+The Lord of the Rings: The Fellowship of the Ring,2001,4.7,Adventure,Fantasy
+The Matrix,1999,4.5,Sci-Fi,Action
+Avengers: Endgame,2019,4.4,Action,Adventure
+Titanic,1997,4.3,Drama,Romance
+Star Wars: Episode IV - A New Hope,1977,4.7,Action,Adventure
+Jurassic Park,1993,4.2,Adventure,Sci-Fi
+Inglourious Basterds,2009,4.4,Adventure,Drama
+The Lion King,1994,4.5,Animation,Adventure
+The Godfather,1972,4.8,Crime,Drama
+The Dark Knight Rises,2012,4.5,Action,Thriller
+The Avengers,2012,4.3,Action,Sci-Fi
+The Silence of the Lambs,1991,4.6,Crime,Drama
+Interstellar,2014,4.7,Adventure,Drama
+Gladiator,2000,4.3,Action,Drama
+Saving Private Ryan,1998,4.6,Drama,War
+The Lord of the Rings: The Return of the King,2003,4.7,Adventure,Fantasy
+The Wolf of Wall Street,2013,4.4,Biography,Crime
+Avatar,2009,4.2,Action,Adventure
+Schindler's List,1993,4.9,Biography,Drama
+The Big Lebowski,1998,4.2,Comedy,Crime
+Memento,2000,4.5,Mystery,Thriller
+Blade Runner,1982,4.7,Sci-Fi,Thriller
+The Social Network,2010,4.3,Biography,Drama
+No Country for Old Men,2007,4.6,Crime,Drama
+The Grand Budapest Hotel,2014,4.5,Adventure,Comedy
+The Green Mile,1999,4.7,Crime,Drama
+Black Panther,2018,4.4,Action,Adventure
+Eternal Sunshine of the Spotless Mind,2004,4.4,Drama,Romance
+Deadpool,2016,4.2,Action,Comedy
+The Departed,2006,4.6,Crime,Drama
+The Shape of Water,2017,4.3,Adventure,Drama
+The Lord of the Rings: The Two Towers,2002,4.6,Adventure,Fantasy
+Mad Max: Fury Road,2015,4.7,Action,Adventure
+Toy Story,1995,4.5,Animation,Adventure
+The Revenant,2015,4.6,Action,Adventure
+Jaws,1975,4.2,Adventure,Thriller
+The Godfather: Part II,1974,4.8,Crime,Drama
+Spider-Man: Into the Spider-Verse,2018,4.6,Animation,Action
